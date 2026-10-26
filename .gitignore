@@ -1,0 +1,15 @@
+# Maven build directory
+target/
+
+# Sensitive database configuration containing credentials
+src/main/resources/db.properties
+
+# NetBeans private cache
+**/nbproject/private/
+
+# IDE files and OS metadata
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
